@@ -1,8 +1,20 @@
 [
   {
-    "id": "custom-game",
+    "id": "fishing-io",
     "title": "Fishing.io",
     "thumbnail": "https://i.ibb.co/9DzFKCJ/cover-1589904894408.jpg",
     "iframeUrl": "https://script.google.com/macros/s/AKfycbzZJhJIeHFv_-I9PXF5xA-MA115srBLxJu4hxtMP4z0hGHSBcMzBNydUT5UxfmhSNQq/exec"
+  },
+  {
+    "id": "bloxorz",
+    "title": "Bloxorz",
+    "thumbnail": "https://picsum.photos/seed/bloxorz/600/400",
+    "iframeUrl": "https://bloxorz.game-files.crazygames.com/ruffle/bloxorz.html?v=1.352&utm_campaign=S_US_EN_KWD_ACQ"
+  },
+  {
+    "id": "obby-gym",
+    "title": "Obby: Gym Simulator, Escape",
+    "thumbnail": "https://picsum.photos/seed/gym/600/400",
+    "iframeUrl": "https://games.crazygames.com/en_US/obby-gym-simulator-escape/index.html?v=1.352&utm_campaign=S_US_EN_KWD_ACQ"
   }
 ]
