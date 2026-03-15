@@ -44,9 +44,6 @@ export default function App() {
           </div>
 
           <div className="hidden md:flex items-center gap-6 text-sm font-medium text-zinc-400">
-            <a href="#" className="hover:text-emerald-500 transition-colors">New</a>
-            <a href="#" className="hover:text-emerald-500 transition-colors">Popular</a>
-            <a href="#" className="hover:text-emerald-500 transition-colors">Categories</a>
           </div>
         </div>
       </header>
@@ -186,7 +183,7 @@ export default function App() {
                   src={selectedGame.iframeUrl}
                   className="w-full h-full border-none"
                   title={selectedGame.title}
-                  allow="autoplay; fullscreen; keyboard"
+                  allow="accelerometer *; ambient-light-sensor *; autoplay *; camera *; clipboard-read *; clipboard-write *; encrypted-media *; fullscreen *; geolocation *; gyroscope *; local-network-access *; magnetometer *; microphone *; midi *; payment *; picture-in-picture *; screen-wake-lock *; speaker *; sync-xhr *; usb *; vibrate *; vr *; web-share *"
                 />
               </div>
             </motion.div>
