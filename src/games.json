@@ -16,5 +16,83 @@
     "title": "Obby: Gym Simulator, Escape",
     "thumbnail": "https://picsum.photos/seed/gym/600/400",
     "iframeUrl": "https://games.crazygames.com/en_US/obby-gym-simulator-escape/index.html?v=1.352&utm_campaign=S_US_EN_KWD_ACQ"
+  },
+  {
+    "id": "rocket-goal",
+    "title": "Rocket Goal",
+    "thumbnail": "https://picsum.photos/seed/rocket/600/400",
+    "iframeUrl": "https://rocketgoal.io/?sdk=crazy&utm_campaign=S_US_EN_KWD_ACQ"
+  },
+  {
+    "id": "basket-random",
+    "title": "Basket Random",
+    "thumbnail": "https://picsum.photos/seed/basket/600/400",
+    "iframeUrl": "https://basket-random.game-files.crazygames.com/basket-random/5/index.html?utm_campaign=S_US_EN_KWD_ACQ"
+  },
+  {
+    "id": "basketball-stars",
+    "title": "Basketball Stars",
+    "thumbnail": "https://picsum.photos/seed/stars/600/400",
+    "iframeUrl": "https://basketball-stars-2019.game-files.crazygames.com/basketball-stars-2019/5/index.html?utm_campaign=S_US_EN_KWD_ACQ"
+  },
+  {
+    "id": "the-impossible-game",
+    "title": "The Impossible Game",
+    "thumbnail": "https://picsum.photos/seed/impossible/600/400",
+    "iframeUrl": "https://games.crazygames.com/en_US/the-impossible-game/index.html?v=1.352"
+  },
+  {
+    "id": "doodle-road",
+    "title": "Doodle Road",
+    "thumbnail": "https://picsum.photos/seed/doodle/600/400",
+    "iframeUrl": "https://games.crazygames.com/en_US/doodle-road/index.html?v=1.352"
+  },
+  {
+    "id": "hyper-cube-challenge",
+    "title": "Hyper Cube Challenge",
+    "thumbnail": "https://picsum.photos/seed/hypercube/600/400",
+    "iframeUrl": "https://games.crazygames.com/en_US/hyper-cube-challenge/index.html?v=1.352"
+  },
+  {
+    "id": "heroes-assemble",
+    "title": "Heroes Assemble",
+    "thumbnail": "https://picsum.photos/seed/heroes/600/400",
+    "iframeUrl": "https://games.crazygames.com/en_US/heroes-assemble/index.html?v=1.352"
+  },
+  {
+    "id": "plonky",
+    "title": "Plonky",
+    "thumbnail": "https://picsum.photos/seed/plonky/600/400",
+    "iframeUrl": "https://985f23e7-e73f-40f0-ba38-134a66989dcb.gdn.poki.com/f570bdd9-2931-41f8-ae6d-919efd864f7b/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-7c22a4c8b680c6d285b9fb10063b90a459e2b5d0&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fplonky&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=9%2C48%2C88%2C929%2C1140%2C1177%2C1190&game_id=985f23e7-e73f-40f0-ba38-134a66989dcb&game_version_id=f570bdd9-2931-41f8-ae6d-919efd864f7b&inspector=0&csp=1"
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "thumbnail": "https://picsum.photos/seed/subway/600/400",
+    "iframeUrl": "https://5dd312fa-015f-11ea-ad56-9cb6d0d995f7.gdn.poki.com/93f0a8aa-9a9c-4448-b720-5bd4c4de3798/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-7c22a4c8b680c6d285b9fb10063b90a459e2b5d0&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fsubway-surfers&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=3%2C4%2C6%2C9%2C86%2C93%2C96%2C103%2C228%2C903%2C929%2C1103%2C1126%2C1140%2C1185%2C1190%2C1193&game_id=5dd312fa-015f-11ea-ad56-9cb6d0d995f7&game_version_id=93f0a8aa-9a9c-4448-b720-5bd4c4de3798&inspector=0&csp=1"
+  },
+  {
+    "id": "bloons-tower-defense-4",
+    "title": "Bloons Tower Defense 4",
+    "thumbnail": "https://picsum.photos/seed/bloons/600/400",
+    "iframeUrl": "https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/bloonstowerdefense4/index.html"
+  },
+  {
+    "id": "cell-to-singularity-mesozoic-valley",
+    "title": "Cell to Singularity: Mesozoic Valley",
+    "thumbnail": "https://picsum.photos/seed/dinosaur/600/400",
+    "iframeUrl": "https://games.crazygames.com/en_US/cell-to-singularity-mesozoic-valley/index.html?v=1.352"
+  },
+  {
+    "id": "bloxd-io",
+    "title": "Bloxd.io",
+    "thumbnail": "https://picsum.photos/seed/bloxd/600/400",
+    "iframeUrl": "https://bloxd.io/"
+  },
+  {
+    "id": "smash-karts",
+    "title": "Smash Karts",
+    "thumbnail": "https://picsum.photos/seed/karts/600/400",
+    "iframeUrl": "https://smash-karts.game-files.crazygames.com/smash-karts/181/index.html"
   }
 ]

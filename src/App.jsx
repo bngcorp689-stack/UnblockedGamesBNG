@@ -42,26 +42,25 @@ const GameRow = ({ title, games, onSelect }) => {
     <div className="mb-10 group/row">
       <div className="flex items-center justify-between mb-4 px-2">
         <h3 className="text-lg font-bold tracking-tight text-zinc-200">{title}</h3>
-        <div className="flex gap-2 opacity-0 group-hover/row:opacity-100 transition-opacity">
+        <div className="flex gap-2 md:opacity-0 group-hover/row:opacity-100 transition-opacity">
           <button 
             onClick={() => scroll('left')}
-            className="p-1.5 rounded-full bg-zinc-800 hover:bg-zinc-700 text-zinc-400 transition-colors"
+            className="p-2 rounded-full bg-zinc-800 hover:bg-zinc-700 text-zinc-400 hover:text-emerald-500 transition-all border border-zinc-700/50 shadow-lg"
           >
-            <ChevronLeft size={18} />
+            <ChevronLeft size={20} />
           </button>
           <button 
             onClick={() => scroll('right')}
-            className="p-1.5 rounded-full bg-zinc-800 hover:bg-zinc-700 text-zinc-400 transition-colors"
+            className="p-2 rounded-full bg-zinc-800 hover:bg-zinc-700 text-zinc-400 hover:text-emerald-500 transition-all border border-zinc-700/50 shadow-lg"
           >
-            <ChevronRight size={18} />
+            <ChevronRight size={20} />
           </button>
         </div>
       </div>
       
       <div 
         ref={scrollRef}
-        className="flex gap-4 overflow-x-auto scrollbar-hide pb-4 px-2 -mx-2 snap-x"
-        style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
+        className="flex gap-4 overflow-x-auto custom-scrollbar pb-4 px-2 -mx-2 snap-x"
       >
         {games.map((game) => (
           <motion.div
